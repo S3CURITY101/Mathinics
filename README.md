@@ -16,12 +16,12 @@ optimize the codes.
 
 <h5>How to use: </h5>
 
-git clone https://github.com/S3CURITY101/Mathinics
-cd to Mathinics folder
-python3 MathOps_UsingClasses.py
+git clone https://github.com/S3CURITY101/Mathinics<br>
+cd to Mathinics folder<br>
+python3 MathOps_UsingClasses.py<br> <br>
 
 
-<h5>Enjoy :) </h5>
+<h5>Enjoy playing around :) </h5><br>
 
-<b> You want to Buy me some Coffee :) </b>
+<b> You want to Buy me some Coffee :) </b><br>
 <b> paypal.me/RapRap11 </b>
